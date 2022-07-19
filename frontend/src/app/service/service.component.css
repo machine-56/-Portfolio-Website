@@ -1,0 +1,22 @@
+.main{ 
+    background-image: url(../../assets/images/service-2.jpeg);
+    background-size: cover;
+
+}
+.container{
+    margin-top: 2%;
+    height: 83vh;
+    align-items: center;
+}
+#heading{
+    color: white;
+    text-align: center;
+    margin-bottom: 11%;
+}
+.bg{
+    background-color: #2a2e33;
+}
+.card img{
+    border: 1px solid white;
+    height: 155px;
+}

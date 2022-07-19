@@ -1,0 +1,22 @@
+.main{
+    background-image: url(../../assets/images/image-1.jpeg);
+    background-size: cover;
+    top: 0;
+    height: 100vh;
+}
+
+.intro{
+    margin: 5%;
+}
+
+.btn{
+    margin-left: 1%;
+    color: #ff7e23;
+    border-color: #ff7e23;
+}
+.btn:hover{
+    color: white;
+    background: #FF5F1F;
+    border-color: #FF5F1F;
+    /*  #00f1fe  */
+}
